@@ -18,6 +18,24 @@ Complete a guide module, close the guide, and take its checkpoint before opening
 10. [Final Mock Exam 1](final-mock-01.md)
 11. [Final Mock Exam 2](final-mock-02.md)
 
+### Trap-edition checkpoints (after scoring 12/15 on the standard checkpoint)
+
+After passing a standard checkpoint, take its trap-edition variant to stress-test your understanding of the most common exam misconceptions:
+
+- [Networking trap checkpoint](module-03-networking-v2.md) — NSG priority, peering nontransitivity, private DNS scope, UDR longest-prefix match
+- [Compute trap checkpoint](module-04-compute-v2.md) — temporary disk, Stopped vs deallocated, VMSS max, slot swap sticky settings, Container App identity
+- [Monitoring and recovery trap checkpoint](module-05-monitoring-v2.md) — Heartbeat vs platform metrics, action group pipeline, backup policy ≠ protection, ASR test failover isolation
+
+### Final Mock Exam 3 (hardest — take after both Mocks 1 and 2)
+
+12. [Final Mock Exam 3](final-mock-03.md) — harder than Mocks 1 and 2; includes two case studies, CLI output interpretation, ordered-decision questions, and cross-domain traps
+
+### Advanced break-fix challenges (multi-layer)
+
+After completing all 25 original break-fix challenges, attempt the 10 advanced challenges:
+
+- [Advanced break-fix challenges 26–35](../guide/10b-break-fix-challenges-advanced.md) — multi-layer failures crossing RBAC, networking, DNS, IaC, monitoring, and vault cleanup
+
 Answer books are under [answers](answers/README.md). Keep that directory closed until the timer ends.
 
 ## How to take a checkpoint

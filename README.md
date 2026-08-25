@@ -40,6 +40,7 @@ Run artifact-based CLI examples from the repository root so paths such as `artif
 - [08 — Supplemental course labs: Key Vault, hybrid networking, Application Gateway, and Firewall](./guide/08-supplemental.md)
 - [09 — AZ-104 DevOps project ideas](./guide/09-devops-project-ideas.md)
 - [10 — Break-fix troubleshooting challenges](./guide/10-break-fix-challenges.md)
+- [10b — Advanced break-fix challenges 26–35 (multi-layer)](./guide/10b-break-fix-challenges-advanced.md)
 - [11 — Last-week revision handbook](./guide/11-last-week-revision.md)
 - [12 — Microsoft Learn search drills](./guide/12-microsoft-learn-search-drills.md)
 - [13 — Command-free practical assessment](./guide/13-command-free-practical.md)
@@ -78,15 +79,17 @@ Supplemental C. Application Gateway WAF and Azure Firewall
 
 ## Knowledge checks and mock exams
 
-The [assessment track](assessments/README.md) keeps questions separate from explanations so you can test honestly after each module. It includes six 15-question module checkpoints and two original 50-question, 100-minute final mock exams. The final mocks are weighted to the current AZ-104 blueprint and mix single-choice, select-two, CLI interpretation, ordered decisions, and case-study questions.
+The [assessment track](assessments/README.md) keeps questions separate from explanations so you can test honestly after each module. It includes six 15-question module checkpoints, three trap-edition variant checkpoints, three original 50-question, 100-minute final mock exams, and an advanced break-fix set. The final mocks are weighted to the current AZ-104 blueprint and mix single-choice, select-two, CLI interpretation, ordered decisions, and case-study questions.
 
 Use this progression:
 
 1. Finish a module's theory, Portal journey, CLI implementation, validation, and cleanup.
-2. Take its checkpoint closed-book and target at least 12/15.
+2. Take its standard checkpoint closed-book and target at least 12/15.
 3. Open the separate answer book, explain every miss, and reproduce the related task in Azure.
-4. Complete the integrated capstone and timed mock practical.
-5. Take [Final Mock Exam 1](assessments/final-mock-01.md), remediate weak objectives, then take [Final Mock Exam 2](assessments/final-mock-02.md) at least 48 hours later.
+4. Take the trap-edition checkpoint for networking, compute, and monitoring after passing the standard version.
+5. Complete the integrated capstone and timed mock practical.
+6. Take [Final Mock Exam 1](assessments/final-mock-01.md), remediate weak objectives, then take [Final Mock Exam 2](assessments/final-mock-02.md) at least 48 hours later.
+7. Take [Final Mock Exam 3](assessments/final-mock-03.md) — the hardest mock, with case studies, CLI output reading, and ordered-decision questions — after scoring 40/50 on both Mocks 1 and 2.
 
 These questions are learning material, not copied certification questions or exam dumps. Also take Microsoft's official free Practice Assessment and use the official Exam Sandbox for the live interface experience.
 
@@ -98,6 +101,7 @@ Use these after completing the related guided modules:
 - [Mistake journal](tracking/mistake-journal.md) — root-cause analysis and 1/3/7/14-day retest schedule
 - [30 daily CLI, KQL, and Bicep drills](drills/daily-cli-kql-bicep.md) — 15-minute recall exercises with a separate reference book
 - [25 break-fix challenges](guide/10-break-fix-challenges.md) — deliberately broken identity, Storage, networking, compute, monitoring, backup, and recovery scenarios
+- [10 advanced break-fix challenges 26–35](guide/10b-break-fix-challenges-advanced.md) — multi-layer failures crossing RBAC, networking, DNS, IaC, monitoring, and vault cleanup
 - [Three case studies](case-studies/README.md) — governance migration, private application platform, and regional recovery
 - [Microsoft Learn search drills](guide/12-microsoft-learn-search-drills.md) — 15 timed authoritative-documentation lookups
 - [Command-free practical](guide/13-command-free-practical.md) — a four-hour outcome-based Portal/CLI/Bicep assessment
