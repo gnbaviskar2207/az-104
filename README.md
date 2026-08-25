@@ -37,6 +37,7 @@ Run artifact-based CLI examples from the repository root so paths such as `artif
 - [06 — Integrated capstone and mock practical](./guide/06-capstone.md)
 - [07 — Exam objective coverage and revision plan](./guide/07-objective-map.md)
 - [08 — Supplemental course labs: Key Vault, hybrid networking, Application Gateway, and Firewall](./guide/08-supplemental.md)
+- [09 — AZ-104 DevOps project ideas](./guide/09-devops-project-ideas.md)
 
 ## Lab inventory
 
