@@ -44,6 +44,7 @@ Run artifact-based CLI examples from the repository root so paths such as `artif
 - [11 — Last-week revision handbook](./guide/11-last-week-revision.md)
 - [12 — Microsoft Learn search drills](./guide/12-microsoft-learn-search-drills.md)
 - [13 — Command-free practical assessment](./guide/13-command-free-practical.md)
+- [14 — Exam traps and misconceptions cheat sheet](./guide/14-exam-traps-cheat-sheet.md)
 
 ## Lab inventory
 
@@ -106,6 +107,7 @@ Use these after completing the related guided modules:
 - [Microsoft Learn search drills](guide/12-microsoft-learn-search-drills.md) — 15 timed authoritative-documentation lookups
 - [Command-free practical](guide/13-command-free-practical.md) — a four-hour outcome-based Portal/CLI/Bicep assessment
 - [Last-week revision handbook](guide/11-last-week-revision.md) — high-yield decision comparisons and a seven-day plan
+- [Exam traps and misconceptions cheat sheet](guide/14-exam-traps-cheat-sheet.md) — 24 specific exam traps with visual diagrams, comparison tables, and a 60-second pre-exam scan
 
 Recommended final sequence:
 
