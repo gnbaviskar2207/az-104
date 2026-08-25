@@ -444,3 +444,7 @@ Start-AzRecoveryServicesAsrTestFailoverJob -ReplicationProtectedItem $protectedI
 3. Stop VM backup protection and delete retained lab data if policy permits.
 4. Delete empty vaults only after protected items, soft-deleted items, fabrics/containers/mappings, private endpoints, and registrations are removed.
 5. Delete `$ASR_RG`, then the retained `$OPS_RG` after confirming no non-lab resources are present.
+
+## Module checkpoint
+
+Take the [monitoring and recovery checkpoint](../assessments/module-05-monitoring-recovery.md) closed-book. For each miss, identify the signal, collection path, detection/action path, or recovery operation and reproduce it in Portal and CLI.

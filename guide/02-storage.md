@@ -371,3 +371,7 @@ Get-AzStorageAccount -ResourceGroupName $storageRg -Name $storageAccount | Selec
 ### Cleanup
 
 Confirm the resource group contains only AZ-104 lab resources, then allow its asynchronous deletion to finish. Remove any local files containing test SAS results.
+
+## Module checkpoint
+
+Take the [storage checkpoint](../assessments/module-02-storage.md) closed-book. For each miss, repeat the relevant Portal and CLI validation from Labs 5–8 before retaking.

@@ -300,3 +300,13 @@ Get-AzRecoveryServicesBackupJob
 - **10 points — hygiene:** naming/tags, repeatable commands, no secrets in history, and complete cleanup.
 
 Score 80+ twice, with no security or cleanup critical failure, before treating the practical phase as complete.
+
+## Final knowledge simulations
+
+After scoring 80+ on the timed practical, take these without opening the answer directory:
+
+1. [Final Mock Exam 1](../assessments/final-mock-01.md) — 50 questions, 100 minutes
+2. Remediate every missed objective in its Portal and CLI lab; wait at least 48 hours.
+3. [Final Mock Exam 2](../assessments/final-mock-02.md) — 50 questions, 100 minutes, including a case study and more interpretation items
+
+Target at least 40/50 overall and 70% in each domain on both attempts. This is a readiness rule for the curriculum, not a conversion to Microsoft's scaled exam score.

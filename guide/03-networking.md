@@ -375,3 +375,7 @@ List every resource in `$NET_RG`, confirm it is a lab group, then delete it. Thi
 az resource list -g "$NET_RG" -o table
 az group delete -n "$NET_RG" --yes --no-wait
 ```
+
+## Module checkpoint
+
+Take the [virtual networking checkpoint](../assessments/module-03-networking.md) closed-book. For each miss, draw the packet path and prove the route, DNS answer, NSG decision, and listener health with Portal and CLI evidence.

@@ -501,3 +501,7 @@ Get-AzAksCluster -ResourceGroupName $aksRg -Name $aks
 - Use supported version/skew, maintenance windows, multiple zones/node pools, Pod disruption budgets, readiness/liveness probes, resource requests/limits, network policy, workload identity, private/restricted API access, backups, and tested upgrades.
 - Avoid cluster-admin credentials for routine work. Separate Azure and Kubernetes authorization responsibilities.
 - Revisit AKS in AZ-305/AZ-400 or Kubernetes-focused learning; do not let it displace higher-weight AZ-104 objectives.
+
+## Module checkpoint
+
+Take the [compute, apps, and containers checkpoint](../assessments/module-04-compute-apps-containers.md) closed-book. Revisit Labs 14–19 for misses; AKS questions remain enrichment and should not displace the named AZ-104 compute objectives.

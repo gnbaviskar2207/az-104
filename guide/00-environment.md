@@ -146,3 +146,7 @@ At the end of a session:
 3. Delete completed lab resource groups after inspecting contents.
 4. Check **Cost Management > Cost analysis** and active budgets.
 5. Run `az logout` on shared machines.
+
+## Module checkpoint
+
+Take the [environment and administrator workflow checkpoint](../assessments/module-00-environment.md) closed-book. Score at least 12/15 before beginning identity and governance; explanations are intentionally stored in a separate answer book.

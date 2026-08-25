@@ -379,3 +379,7 @@ Get-AzAdvisorRecommendation
 ### Cleanup
 
 Delete lab Policy assignments before the resource group. Remove the optional management group only if it is empty. Keep a low subscription budget if it is genuinely useful; otherwise remove the lab budget.
+
+## Module checkpoint
+
+Take the [identity and governance checkpoint](../assessments/module-01-identity-governance.md) closed-book. For each miss, repeat the relevant Portal and CLI validation from Labs 1–4 before retaking.

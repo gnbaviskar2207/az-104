@@ -70,6 +70,20 @@ Supplemental A. Managed identities and Key Vault
 Supplemental B. VPN Gateway, ExpressRoute, and Virtual WAN concepts  
 Supplemental C. Application Gateway WAF and Azure Firewall
 
+## Knowledge checks and mock exams
+
+The [assessment track](assessments/README.md) keeps questions separate from explanations so you can test honestly after each module. It includes six 15-question module checkpoints and two original 50-question, 100-minute final mock exams. The final mocks are weighted to the current AZ-104 blueprint and mix single-choice, select-two, CLI interpretation, ordered decisions, and case-study questions.
+
+Use this progression:
+
+1. Finish a module's theory, Portal journey, CLI implementation, validation, and cleanup.
+2. Take its checkpoint closed-book and target at least 12/15.
+3. Open the separate answer book, explain every miss, and reproduce the related task in Azure.
+4. Complete the integrated capstone and timed mock practical.
+5. Take [Final Mock Exam 1](assessments/final-mock-01.md), remediate weak objectives, then take [Final Mock Exam 2](assessments/final-mock-02.md) at least 48 hours later.
+
+These questions are learning material, not copied certification questions or exam dumps. Also take Microsoft's official free Practice Assessment and use the official Exam Sandbox for the live interface experience.
+
 ## Source review and design decisions
 
 - The [official Microsoft AZ-104 course](https://learn.microsoft.com/en-us/training/courses/az-104t00) defines the administrator role across subscriptions, identities, infrastructure, networking, storage, compute, applications, containers, backup, and monitoring.
