@@ -271,10 +271,14 @@ Mark an objective complete only when you can justify why the wrong service/setti
 
 You are ready to schedule when all of the following are true:
 
-- Every objective above has at least one completed lab and a written explanation.
+- Every objective is Green in the [objective readiness tracker](../tracking/objective-readiness.md), with Portal, CLI, troubleshooting, and recent evidence.
 - Labs 24 and 25 score at least 80% twice with no critical security/cleanup miss.
+- The [break-fix challenges](10-break-fix-challenges.md) score at least 80/100 and every root-cause miss has been repeated.
+- All [case studies](../case-studies/README.md) score at least 8/10.
+- The [command-free practical](13-command-free-practical.md) scores at least 80/100 twice with no critical failure.
 - You can perform basic CLI tasks without searching exact commands, while comfortably using `--help` for complex groups.
 - You can write and explain KQL using `where`, `project`, `summarize`, `extend`, and time filters.
 - You can diagnose an access failure by separating authentication, RBAC/data role, network, Policy, lock, and service configuration.
 - You can restore data/VM artifacts and complete an isolated Site Recovery test failover—not just configure policies.
-- Practice-assessment weakness is remediated by objective, not by memorizing answer text.
+- Both final mocks score at least 80% overall with no domain below 70%.
+- Every guessed/missed Practice Assessment or curriculum item is remediated by objective in the [mistake journal](../tracking/mistake-journal.md), not by memorizing answer text.

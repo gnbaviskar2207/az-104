@@ -12,8 +12,11 @@ Complete a guide module, close the guide, and take its checkpoint before opening
 4. [Virtual networking checkpoint](module-03-networking.md)
 5. [Compute, apps, and containers checkpoint](module-04-compute-apps-containers.md)
 6. [Monitoring and recovery checkpoint](module-05-monitoring-recovery.md)
-7. [Final Mock Exam 1](final-mock-01.md)
-8. [Final Mock Exam 2](final-mock-02.md)
+7. [Break-fix troubleshooting challenges](../guide/10-break-fix-challenges.md)
+8. [Three shared-scenario case studies](../case-studies/README.md)
+9. [Command-free practical assessment](../guide/13-command-free-practical.md)
+10. [Final Mock Exam 1](final-mock-01.md)
+11. [Final Mock Exam 2](final-mock-02.md)
 
 Answer books are under [answers](answers/README.md). Keep that directory closed until the timer ends.
 

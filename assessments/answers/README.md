@@ -8,6 +8,10 @@ Open an answer book only after completing its assessment:
 - [Module 03 answers](module-03-networking-answers.md)
 - [Module 04 answers](module-04-compute-apps-containers-answers.md)
 - [Module 05 answers](module-05-monitoring-recovery-answers.md)
+- [Break-fix challenge solutions](break-fix-challenges-answers.md)
+- [Daily CLI/KQL/Bicep drill references](daily-drills-answers.md)
+- [Microsoft Learn search drill targets](learn-search-drills-answers.md)
+- [Case-study answer books](../../case-studies/answers/README.md)
 - [Final Mock Exam 1 answers](final-mock-01-answers.md)
 - [Final Mock Exam 2 answers](final-mock-02-answers.md)
 

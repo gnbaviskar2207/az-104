@@ -25,6 +25,7 @@ Run artifact-based CLI examples from the repository root so paths such as `artif
 - **Stage 4 — Compute and application platforms:** ARM/Bicep, VMs, disks, availability, VMSS, App Service, ACR, ACI, Container Apps, plus AKS enrichment.
 - **Stage 5 — Operations:** Azure Monitor, Logs, alerts, Insights, Network Watcher, Backup, Site Recovery, reporting.
 - **Stage 6 — Capstone:** build, secure, observe, recover, and explain a small production-style workload.
+- **Stage 7 — Readiness:** break-fix incidents, case studies, spaced drills, mistake remediation, command-free practical, final mocks, and last-week review.
 
 ## Curriculum files
 
@@ -38,6 +39,10 @@ Run artifact-based CLI examples from the repository root so paths such as `artif
 - [07 — Exam objective coverage and revision plan](./guide/07-objective-map.md)
 - [08 — Supplemental course labs: Key Vault, hybrid networking, Application Gateway, and Firewall](./guide/08-supplemental.md)
 - [09 — AZ-104 DevOps project ideas](./guide/09-devops-project-ideas.md)
+- [10 — Break-fix troubleshooting challenges](./guide/10-break-fix-challenges.md)
+- [11 — Last-week revision handbook](./guide/11-last-week-revision.md)
+- [12 — Microsoft Learn search drills](./guide/12-microsoft-learn-search-drills.md)
+- [13 — Command-free practical assessment](./guide/13-command-free-practical.md)
 
 ## Lab inventory
 
@@ -84,6 +89,28 @@ Use this progression:
 5. Take [Final Mock Exam 1](assessments/final-mock-01.md), remediate weak objectives, then take [Final Mock Exam 2](assessments/final-mock-02.md) at least 48 hours later.
 
 These questions are learning material, not copied certification questions or exam dumps. Also take Microsoft's official free Practice Assessment and use the official Exam Sandbox for the live interface experience.
+
+## Readiness and retention toolkit
+
+Use these after completing the related guided modules:
+
+- [Objective readiness tracker](tracking/objective-readiness.md) — evidence-based Red/Amber/Green status for every current blueprint objective
+- [Mistake journal](tracking/mistake-journal.md) — root-cause analysis and 1/3/7/14-day retest schedule
+- [30 daily CLI, KQL, and Bicep drills](drills/daily-cli-kql-bicep.md) — 15-minute recall exercises with a separate reference book
+- [25 break-fix challenges](guide/10-break-fix-challenges.md) — deliberately broken identity, Storage, networking, compute, monitoring, backup, and recovery scenarios
+- [Three case studies](case-studies/README.md) — governance migration, private application platform, and regional recovery
+- [Microsoft Learn search drills](guide/12-microsoft-learn-search-drills.md) — 15 timed authoritative-documentation lookups
+- [Command-free practical](guide/13-command-free-practical.md) — a four-hour outcome-based Portal/CLI/Bicep assessment
+- [Last-week revision handbook](guide/11-last-week-revision.md) — high-yield decision comparisons and a seven-day plan
+
+Recommended final sequence:
+
+1. Make every objective at least Amber; complete all module checkpoints.
+2. Complete daily drills and break-fix challenges; update the mistake journal.
+3. Score at least 8/10 on each case study.
+4. Pass the command-free practical at 80/100 with no critical failure.
+5. Take Final Mock 1, remediate, then Final Mock 2 at least 48 hours later.
+6. Move every objective to Green and use the last-week handbook for targeted recall.
 
 ## Source review and design decisions
 
